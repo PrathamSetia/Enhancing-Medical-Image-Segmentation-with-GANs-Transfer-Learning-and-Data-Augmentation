@@ -1,0 +1,2 @@
+# Enhancing-Medical-Image-Segmentation-with-GANs-Transfer-Learning-and-Data-Augmentation
+This project tackles limited annotated medical data by combining GANs (for synthetic image generation), Transfer Learning (using pre-trained models), and Data Augmentation (for robustness). The aim is to improve segmentation in tumor detection, organ analysis, and disease monitoring while ensuring scalability and ethics.
